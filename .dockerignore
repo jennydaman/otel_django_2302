@@ -1,0 +1,6 @@
+.git
+.idea
+.dockerignore
+Dockerfile
+db.sqlite3
+create_cluster.sh

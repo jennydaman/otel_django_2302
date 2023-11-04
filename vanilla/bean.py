@@ -1,0 +1,2 @@
+class Bean:
+    pass
